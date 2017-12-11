@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Final Weather</string>
+    <string name="humidity_lb">Humidity</string>
+    <string name="pressure_lb">Pressure</string>
+    <string name="wind_speed_lb">Wind speed</string>
+    <string name="sunrise_lb">Sunrise</string>
+    <string name="sunset_lb">Sunset</string>
+
+
+</resources>
