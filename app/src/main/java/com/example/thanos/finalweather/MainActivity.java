@@ -204,8 +204,8 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
             }
 
             public void deliverResult (String data){
-                super.deliverResult(data);
                 weatherData = data;
+                super.deliverResult(data);
             }
         };
     }
